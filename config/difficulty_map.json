@@ -33,6 +33,7 @@
   "34-find-first-and-last-position-of-element-in-sorted-array": "Medium",
   "35-search-insert-position": "Easy",
   "394-decode-string": "Medium",
+  "402-remove-k-digits": "Medium",
   "435-non-overlapping-intervals": "Medium",
   "451-sort-characters-by-frequency": "Medium",
   "452-minimum-number-of-arrows-to-burst-balloons": "Medium",

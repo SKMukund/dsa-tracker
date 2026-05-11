@@ -5,7 +5,7 @@ A continuously maintained, automated log of LeetCode problems, organized by algo
 
 This repository demonstrates consistency in problem-solving, structured learning across core algorithmic patterns, and practical engineering to manage large-scale interview preparation.
 
-**60 problems solved across core algorithmic patterns (automatically tracked and updated).**
+**61 problems solved across core algorithmic patterns (automatically tracked and updated).**
 
 ---
 [![Run Reclassification](https://img.shields.io/badge/Reclassify-Uncategorized-blue?style=for-the-badge)](../../actions/workflows/reclassify.yml)
@@ -49,13 +49,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 ## 📊 Progress
 
 <!-- TRACKER_START -->
-**60 problems solved** (Python)  
-**Difficulty:** 22 Easy · 36 Medium · 2 Hard  
+**61 problems solved** (Python)  
+**Difficulty:** 22 Easy · 37 Medium · 2 Hard  
 **Last updated:** 2026-05-11
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 22 | 36 | 2 | 60 |
+| 22 | 37 | 2 | 61 |
 
 ### Problems by Topic
 
@@ -107,7 +107,7 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 </details>
 
 <details>
-<summary><strong>Stack</strong> — 8 problems</summary>
+<summary><strong>Stack</strong> — 9 problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
@@ -115,6 +115,7 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 | 0084 | Largest Rectangle in Histogram | Hard |
 | 0150 | Evaluate Reverse Polish Notation | Medium |
 | 0394 | Decode String | Medium |
+| 0402 | Remove K Digits | Medium |
 | 0496 | Next Greater Element I | Easy |
 | 0503 | Next Greater Element II | Medium |
 | 0739 | Daily Temperatures | Medium |
@@ -227,11 +228,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
+| 402 | Remove K Digits | Stack | Medium |
 | 503 | Next Greater Element II | Stack | Medium |
 | 394 | Decode String | Stack | Medium |
 | 253 | Meeting Rooms II | Heap / Priority Queue | Medium |
 | 57 | Insert Interval | Intervals | Medium |
-| 56 | Merge Intervals | Intervals | Medium |
 
 <!-- TRACKER_END -->
 
