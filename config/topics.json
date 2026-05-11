@@ -41,6 +41,7 @@
   "451-sort-characters-by-frequency": "arrays_and_hashing",
   "452-minimum-number-of-arrows-to-burst-balloons": "intervals",
   "496-next-greater-element-i": "stack",
+  "503-next-greater-element-ii": "stack",
   "509-fibonacci-number": "dynamic_programming",
   "542-01-matrix": "graphs",
   "567-permutation-in-string": "sliding_window",
