@@ -37,6 +37,7 @@
   "278-first-bad-version": "binary_search",
   "283-move-zeroes": "two_pointers",
   "322-coin-change": "dynamic_programming",
+  "394-decode-string": "stack",
   "451-sort-characters-by-frequency": "arrays_and_hashing",
   "452-minimum-number-of-arrows-to-burst-balloons": "intervals",
   "496-next-greater-element-i": "stack",

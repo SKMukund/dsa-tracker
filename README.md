@@ -5,7 +5,7 @@ A continuously maintained, automated log of LeetCode problems, organized by algo
 
 This repository demonstrates consistency in problem-solving, structured learning across core algorithmic patterns, and practical engineering to manage large-scale interview preparation.
 
-**58 problems solved across core algorithmic patterns (automatically tracked and updated).**
+**59 problems solved across core algorithmic patterns (automatically tracked and updated).**
 
 ---
 [![Run Reclassification](https://img.shields.io/badge/Reclassify-Uncategorized-blue?style=for-the-badge)](../../actions/workflows/reclassify.yml)
@@ -49,13 +49,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 ## 📊 Progress
 
 <!-- TRACKER_START -->
-**58 problems solved** (Python)  
-**Difficulty:** 22 Easy · 34 Medium · 2 Hard  
-**Last updated:** 2026-04-24
+**59 problems solved** (Python)  
+**Difficulty:** 22 Easy · 35 Medium · 2 Hard  
+**Last updated:** 2026-05-10
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 22 | 34 | 2 | 58 |
+| 22 | 35 | 2 | 59 |
 
 ### Problems by Topic
 
@@ -107,13 +107,14 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 </details>
 
 <details>
-<summary><strong>Stack</strong> — 6 problems</summary>
+<summary><strong>Stack</strong> — 7 problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 0020 | Valid Parentheses | Easy |
 | 0084 | Largest Rectangle in Histogram | Hard |
 | 0150 | Evaluate Reverse Polish Notation | Medium |
+| 0394 | Decode String | Medium |
 | 0496 | Next Greater Element I | Easy |
 | 0739 | Daily Temperatures | Medium |
 | 0874 | Backspace String Compare | Easy |
@@ -225,11 +226,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
+| 394 | Decode String | Stack | Medium |
 | 253 | Meeting Rooms II | Heap / Priority Queue | Medium |
 | 57 | Insert Interval | Intervals | Medium |
 | 56 | Merge Intervals | Intervals | Medium |
 | 452 | Minimum Number of Arrows to Burst Balloons | Intervals | Medium |
-| 890 | Lemonade Change | Greedy | Easy |
 
 <!-- TRACKER_END -->
 
