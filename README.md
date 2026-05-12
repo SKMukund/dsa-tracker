@@ -5,7 +5,7 @@ A continuously maintained, automated log of LeetCode problems, organized by algo
 
 This repository demonstrates consistency in problem-solving, structured learning across core algorithmic patterns, and practical engineering to manage large-scale interview preparation.
 
-**62 problems solved across core algorithmic patterns (automatically tracked and updated).**
+**63 problems solved across core algorithmic patterns (automatically tracked and updated).**
 
 ---
 [![Run Reclassification](https://img.shields.io/badge/Reclassify-Uncategorized-blue?style=for-the-badge)](../../actions/workflows/reclassify.yml)
@@ -49,13 +49,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 ## 📊 Progress
 
 <!-- TRACKER_START -->
-**62 problems solved** (Python)  
-**Difficulty:** 23 Easy · 37 Medium · 2 Hard  
+**63 problems solved** (Python)  
+**Difficulty:** 24 Easy · 37 Medium · 2 Hard  
 **Last updated:** 2026-05-11
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 23 | 37 | 2 | 62 |
+| 24 | 37 | 2 | 63 |
 
 ### Problems by Topic
 
@@ -146,11 +146,12 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 </details>
 
 <details>
-<summary><strong>Trees</strong> — 1 problem</summary>
+<summary><strong>Trees</strong> — 2 problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 0100 | Same Tree | Easy |
+| 0104 | Maximum Depth of Binary Tree | Easy |
 
 </details>
 
@@ -237,11 +238,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
+| 104 | Maximum Depth of Binary Tree | Trees | Easy |
 | 100 | Same Tree | Trees | Easy |
 | 402 | Remove K Digits | Stack | Medium |
 | 503 | Next Greater Element II | Stack | Medium |
 | 394 | Decode String | Stack | Medium |
-| 253 | Meeting Rooms II | Heap / Priority Queue | Medium |
 
 <!-- TRACKER_END -->
 
