@@ -5,7 +5,7 @@ A continuously maintained, automated log of LeetCode problems, organized by algo
 
 This repository demonstrates consistency in problem-solving, structured learning across core algorithmic patterns, and practical engineering to manage large-scale interview preparation.
 
-**61 problems solved across core algorithmic patterns (automatically tracked and updated).**
+**62 problems solved across core algorithmic patterns (automatically tracked and updated).**
 
 ---
 [![Run Reclassification](https://img.shields.io/badge/Reclassify-Uncategorized-blue?style=for-the-badge)](../../actions/workflows/reclassify.yml)
@@ -49,13 +49,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 ## 📊 Progress
 
 <!-- TRACKER_START -->
-**61 problems solved** (Python)  
-**Difficulty:** 22 Easy · 37 Medium · 2 Hard  
+**62 problems solved** (Python)  
+**Difficulty:** 23 Easy · 37 Medium · 2 Hard  
 **Last updated:** 2026-05-11
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 22 | 37 | 2 | 61 |
+| 23 | 37 | 2 | 62 |
 
 ### Problems by Topic
 
@@ -146,6 +146,15 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 </details>
 
 <details>
+<summary><strong>Trees</strong> — 1 problem</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 0100 | Same Tree | Easy |
+
+</details>
+
+<details>
 <summary><strong>Heap / Priority Queue</strong> — 1 problem</summary>
 
 | # | Problem | Difficulty |
@@ -228,11 +237,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
+| 100 | Same Tree | Trees | Easy |
 | 402 | Remove K Digits | Stack | Medium |
 | 503 | Next Greater Element II | Stack | Medium |
 | 394 | Decode String | Stack | Medium |
 | 253 | Meeting Rooms II | Heap / Priority Queue | Medium |
-| 57 | Insert Interval | Intervals | Medium |
 
 <!-- TRACKER_END -->
 

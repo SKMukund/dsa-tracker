@@ -18,6 +18,7 @@
   "70-climbing-stairs": "dynamic_programming",
   "79-word-search": "backtracking",
   "84-largest-rectangle-in-histogram": "stack",
+  "100-same-tree": "trees",
   "121-best-time-to-buy-and-sell-stock": "sliding_window",
   "125-valid-palindrome": "two_pointers",
   "134-gas-station": "greedy",
