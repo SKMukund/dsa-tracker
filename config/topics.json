@@ -48,6 +48,7 @@
   "503-next-greater-element-ii": "stack",
   "509-fibonacci-number": "dynamic_programming",
   "542-01-matrix": "graphs",
+  "543-diameter-of-binary-tree": "trees",
   "567-permutation-in-string": "sliding_window",
   "643-maximum-average-subarray-i": "sliding_window",
   "695-max-area-of-island": "graphs",
