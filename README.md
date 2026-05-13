@@ -5,7 +5,7 @@ A continuously maintained, automated log of LeetCode problems, organized by algo
 
 This repository demonstrates consistency in problem-solving, structured learning across core algorithmic patterns, and practical engineering to manage large-scale interview preparation.
 
-**65 problems solved across core algorithmic patterns (automatically tracked and updated).**
+**66 problems solved across core algorithmic patterns (automatically tracked and updated).**
 
 ---
 [![Run Reclassification](https://img.shields.io/badge/Reclassify-Uncategorized-blue?style=for-the-badge)](../../actions/workflows/reclassify.yml)
@@ -49,13 +49,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 ## 📊 Progress
 
 <!-- TRACKER_START -->
-**65 problems solved** (Python)  
-**Difficulty:** 26 Easy · 37 Medium · 2 Hard  
+**66 problems solved** (Python)  
+**Difficulty:** 27 Easy · 37 Medium · 2 Hard  
 **Last updated:** 2026-05-13
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 26 | 37 | 2 | 65 |
+| 27 | 37 | 2 | 66 |
 
 ### Problems by Topic
 
@@ -146,12 +146,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 </details>
 
 <details>
-<summary><strong>Trees</strong> — 4 problems</summary>
+<summary><strong>Trees</strong> — 5 problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 0100 | Same Tree | Easy |
 | 0104 | Maximum Depth of Binary Tree | Easy |
+| 0110 | Balanced Binary Tree | Easy |
 | 0226 | Invert Binary Tree | Easy |
 | 0543 | Diameter of Binary Tree | Easy |
 
@@ -240,11 +241,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
+| 110 | Balanced Binary Tree | Trees | Easy |
 | 543 | Diameter of Binary Tree | Trees | Easy |
 | 226 | Invert Binary Tree | Trees | Easy |
 | 104 | Maximum Depth of Binary Tree | Trees | Easy |
 | 100 | Same Tree | Trees | Easy |
-| 402 | Remove K Digits | Stack | Medium |
 
 <!-- TRACKER_END -->
 
