@@ -1,6 +1,7 @@
 {
   "1-two-sum": "Easy",
   "100-same-tree": "Easy",
+  "102-binary-tree-level-order-traversal": "Medium",
   "1036-rotting-oranges": "Medium",
   "104-maximum-depth-of-binary-tree": "Easy",
   "1046-max-consecutive-ones-iii": "Medium",
