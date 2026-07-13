@@ -5,7 +5,7 @@ A continuously maintained, automated log of LeetCode problems, organized by algo
 
 This repository demonstrates consistency in problem-solving, structured learning across core algorithmic patterns, and practical engineering to manage large-scale interview preparation.
 
-**68 problems solved across core algorithmic patterns (automatically tracked and updated).**
+**69 problems solved across core algorithmic patterns (automatically tracked and updated).**
 
 ---
 [![Run Reclassification](https://img.shields.io/badge/Reclassify-Uncategorized-blue?style=for-the-badge)](../../actions/workflows/reclassify.yml)
@@ -49,13 +49,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 ## 📊 Progress
 
 <!-- TRACKER_START -->
-**68 problems solved** (Python)  
-**Difficulty:** 27 Easy · 39 Medium · 2 Hard  
+**69 problems solved** (Python)  
+**Difficulty:** 27 Easy · 40 Medium · 2 Hard  
 **Last updated:** 2026-07-12
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 27 | 39 | 2 | 68 |
+| 27 | 40 | 2 | 69 |
 
 ### Problems by Topic
 
@@ -146,7 +146,7 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 </details>
 
 <details>
-<summary><strong>Trees</strong> — 7 problems</summary>
+<summary><strong>Trees</strong> — 8 problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
@@ -156,6 +156,7 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 | 0110 | Balanced Binary Tree | Easy |
 | 0199 | Binary Tree Right Side View | Medium |
 | 0226 | Invert Binary Tree | Easy |
+| 0236 | Lowest Common Ancestor of a Binary Tree | Medium |
 | 0543 | Diameter of Binary Tree | Easy |
 
 </details>
@@ -243,11 +244,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
+| 236 | Lowest Common Ancestor of a Binary Tree | Trees | Medium |
 | 199 | Binary Tree Right Side View | Trees | Medium |
 | 102 | Binary Tree Level Order Traversal | Trees | Medium |
 | 110 | Balanced Binary Tree | Trees | Easy |
 | 543 | Diameter of Binary Tree | Trees | Easy |
-| 226 | Invert Binary Tree | Trees | Easy |
 
 <!-- TRACKER_END -->
 
