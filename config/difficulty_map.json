@@ -69,5 +69,6 @@
   "84-largest-rectangle-in-histogram": "Hard",
   "874-backspace-string-compare": "Easy",
   "890-lemonade-change": "Easy",
-  "940-fruit-into-baskets": "Medium"
+  "940-fruit-into-baskets": "Medium",
+  "98-validate-binary-search-tree": "Medium"
 }

@@ -5,7 +5,7 @@ A continuously maintained, automated log of LeetCode problems, organized by algo
 
 This repository demonstrates consistency in problem-solving, structured learning across core algorithmic patterns, and practical engineering to manage large-scale interview preparation.
 
-**71 problems solved across core algorithmic patterns (automatically tracked and updated).**
+**72 problems solved across core algorithmic patterns (automatically tracked and updated).**
 
 ---
 [![Run Reclassification](https://img.shields.io/badge/Reclassify-Uncategorized-blue?style=for-the-badge)](../../actions/workflows/reclassify.yml)
@@ -49,13 +49,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 ## 📊 Progress
 
 <!-- TRACKER_START -->
-**71 problems solved** (Python)  
-**Difficulty:** 27 Easy · 41 Medium · 3 Hard  
+**72 problems solved** (Python)  
+**Difficulty:** 27 Easy · 42 Medium · 3 Hard  
 **Last updated:** 2026-08-09
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 27 | 41 | 3 | 71 |
+| 27 | 42 | 3 | 72 |
 
 ### Problems by Topic
 
@@ -146,10 +146,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 </details>
 
 <details>
-<summary><strong>Trees</strong> — 10 problems</summary>
+<summary><strong>Trees</strong> — 11 problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 0098 | Validate Binary Search Tree | Medium |
 | 0100 | Same Tree | Easy |
 | 0102 | Binary Tree Level Order Traversal | Medium |
 | 0104 | Maximum Depth of Binary Tree | Easy |
@@ -246,11 +247,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
+| 98 | Validate Binary Search Tree | Trees | Medium |
 | 124 | Binary Tree Maximum Path Sum | Trees | Hard |
 | 113 | Path Sum II | Trees | Medium |
 | 236 | Lowest Common Ancestor of a Binary Tree | Trees | Medium |
 | 199 | Binary Tree Right Side View | Trees | Medium |
-| 102 | Binary Tree Level Order Traversal | Trees | Medium |
 
 <!-- TRACKER_END -->
 
