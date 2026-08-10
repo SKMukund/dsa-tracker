@@ -24,6 +24,7 @@
   "110-balanced-binary-tree": "trees",
   "113-path-sum-ii": "trees",
   "121-best-time-to-buy-and-sell-stock": "sliding_window",
+  "124-binary-tree-maximum-path-sum": "trees",
   "125-valid-palindrome": "two_pointers",
   "134-gas-station": "greedy",
   "135-candy": "greedy",
