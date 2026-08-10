@@ -5,7 +5,7 @@ A continuously maintained, automated log of LeetCode problems, organized by algo
 
 This repository demonstrates consistency in problem-solving, structured learning across core algorithmic patterns, and practical engineering to manage large-scale interview preparation.
 
-**72 problems solved across core algorithmic patterns (automatically tracked and updated).**
+**73 problems solved across core algorithmic patterns (automatically tracked and updated).**
 
 ---
 [![Run Reclassification](https://img.shields.io/badge/Reclassify-Uncategorized-blue?style=for-the-badge)](../../actions/workflows/reclassify.yml)
@@ -49,13 +49,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 ## 📊 Progress
 
 <!-- TRACKER_START -->
-**72 problems solved** (Python)  
-**Difficulty:** 27 Easy · 42 Medium · 3 Hard  
+**73 problems solved** (Python)  
+**Difficulty:** 27 Easy · 43 Medium · 3 Hard  
 **Last updated:** 2026-08-09
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 27 | 42 | 3 | 72 |
+| 27 | 43 | 3 | 73 |
 
 ### Problems by Topic
 
@@ -146,7 +146,7 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 </details>
 
 <details>
-<summary><strong>Trees</strong> — 11 problems</summary>
+<summary><strong>Trees</strong> — 12 problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
@@ -159,6 +159,7 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 | 0124 | Binary Tree Maximum Path Sum | Hard |
 | 0199 | Binary Tree Right Side View | Medium |
 | 0226 | Invert Binary Tree | Easy |
+| 0230 | Kth Smallest Element in a BST | Medium |
 | 0236 | Lowest Common Ancestor of a Binary Tree | Medium |
 | 0543 | Diameter of Binary Tree | Easy |
 
@@ -247,11 +248,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
+| 230 | Kth Smallest Element in a BST | Trees | Medium |
 | 98 | Validate Binary Search Tree | Trees | Medium |
 | 124 | Binary Tree Maximum Path Sum | Trees | Hard |
 | 113 | Path Sum II | Trees | Medium |
 | 236 | Lowest Common Ancestor of a Binary Tree | Trees | Medium |
-| 199 | Binary Tree Right Side View | Trees | Medium |
 
 <!-- TRACKER_END -->
 

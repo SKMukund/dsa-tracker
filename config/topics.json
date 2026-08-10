@@ -40,6 +40,7 @@
   "213-house-robber-ii": "dynamic_programming",
   "217-contains-duplicate": "arrays_and_hashing",
   "226-invert-binary-tree": "trees",
+  "230-kth-smallest-element-in-a-bst": "trees",
   "236-lowest-common-ancestor-of-a-binary-tree": "trees",
   "238-product-of-array-except-self": "prefix_sum",
   "242-valid-anagram": "arrays_and_hashing",
