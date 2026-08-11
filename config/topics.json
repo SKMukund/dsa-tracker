@@ -36,6 +36,7 @@
   "198-house-robber": "dynamic_programming",
   "199-binary-tree-right-side-view": "trees",
   "200-number-of-islands": "graphs",
+  "206-reverse-linked-list": "linked_list",
   "209-minimum-size-subarray-sum": "sliding_window",
   "213-house-robber-ii": "dynamic_programming",
   "217-contains-duplicate": "arrays_and_hashing",
