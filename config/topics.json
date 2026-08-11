@@ -7,6 +7,7 @@
   "13-roman-to-integer": "arrays_and_hashing",
   "15-3sum": "two_pointers",
   "20-valid-parentheses": "stack",
+  "21-merge-two-sorted-lists": "linked_list",
   "26-remove-duplicates-from-sorted-array": "two_pointers",
   "34-find-first-and-last-position-of-element-in-sorted-array": "binary_search",
   "35-search-insert-position": "binary_search",

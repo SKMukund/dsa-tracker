@@ -5,7 +5,7 @@ A continuously maintained, automated log of LeetCode problems, organized by algo
 
 This repository demonstrates consistency in problem-solving, structured learning across core algorithmic patterns, and practical engineering to manage large-scale interview preparation.
 
-**74 problems solved across core algorithmic patterns (automatically tracked and updated).**
+**75 problems solved across core algorithmic patterns (automatically tracked and updated).**
 
 ---
 [![Run Reclassification](https://img.shields.io/badge/Reclassify-Uncategorized-blue?style=for-the-badge)](../../actions/workflows/reclassify.yml)
@@ -49,13 +49,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 ## 📊 Progress
 
 <!-- TRACKER_START -->
-**74 problems solved** (Python)  
-**Difficulty:** 28 Easy · 43 Medium · 3 Hard  
+**75 problems solved** (Python)  
+**Difficulty:** 29 Easy · 43 Medium · 3 Hard  
 **Last updated:** 2026-08-10
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 28 | 43 | 3 | 74 |
+| 29 | 43 | 3 | 75 |
 
 ### Problems by Topic
 
@@ -137,11 +137,12 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 </details>
 
 <details>
-<summary><strong>Linked List</strong> — 2 problems</summary>
+<summary><strong>Linked List</strong> — 3 problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 0002 | Add Two Numbers | Medium |
+| 0021 | Merge Two Sorted Lists | Easy |
 | 0206 | Reverse Linked List | Easy |
 
 </details>
@@ -249,11 +250,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
+| 21 | Merge Two Sorted Lists | Linked List | Easy |
 | 206 | Reverse Linked List | Linked List | Easy |
 | 230 | Kth Smallest Element in a BST | Trees | Medium |
 | 98 | Validate Binary Search Tree | Trees | Medium |
 | 124 | Binary Tree Maximum Path Sum | Trees | Hard |
-| 113 | Path Sum II | Trees | Medium |
 
 <!-- TRACKER_END -->
 
