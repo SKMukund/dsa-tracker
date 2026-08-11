@@ -18,6 +18,7 @@
   "69-sqrtx": "binary_search",
   "70-climbing-stairs": "dynamic_programming",
   "79-word-search": "backtracking",
+  "83-remove-duplicates-from-sorted-list": "linked_list",
   "84-largest-rectangle-in-histogram": "stack",
   "98-validate-binary-search-tree": "trees",
   "100-same-tree": "trees",
