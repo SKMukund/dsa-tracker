@@ -77,6 +77,7 @@
   "874-backspace-string-compare": "Easy",
   "890-lemonade-change": "Easy",
   "908-middle-of-the-linked-list": "Easy",
+  "92-reverse-linked-list-ii": "Medium",
   "940-fruit-into-baskets": "Medium",
   "98-validate-binary-search-tree": "Medium"
 }

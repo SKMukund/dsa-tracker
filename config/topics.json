@@ -21,6 +21,7 @@
   "79-word-search": "backtracking",
   "83-remove-duplicates-from-sorted-list": "linked_list",
   "84-largest-rectangle-in-histogram": "stack",
+  "92-reverse-linked-list-ii": "linked_list",
   "98-validate-binary-search-tree": "trees",
   "100-same-tree": "trees",
   "102-binary-tree-level-order-traversal": "trees",
