@@ -69,6 +69,7 @@
   "837-most-common-word": "arrays_and_hashing",
   "874-backspace-string-compare": "stack",
   "890-lemonade-change": "greedy",
+  "908-middle-of-the-linked-list": "linked_list",
   "940-fruit-into-baskets": "sliding_window",
   "1036-rotting-oranges": "graphs",
   "1046-max-consecutive-ones-iii": "sliding_window",
