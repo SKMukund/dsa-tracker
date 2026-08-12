@@ -5,7 +5,7 @@ A continuously maintained, automated log of LeetCode problems, organized by algo
 
 This repository demonstrates consistency in problem-solving, structured learning across core algorithmic patterns, and practical engineering to manage large-scale interview preparation.
 
-**77 problems solved across core algorithmic patterns (automatically tracked and updated).**
+**78 problems solved across core algorithmic patterns (automatically tracked and updated).**
 
 ---
 [![Run Reclassification](https://img.shields.io/badge/Reclassify-Uncategorized-blue?style=for-the-badge)](../../actions/workflows/reclassify.yml)
@@ -49,13 +49,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 ## 📊 Progress
 
 <!-- TRACKER_START -->
-**77 problems solved** (Python)  
-**Difficulty:** 31 Easy · 43 Medium · 3 Hard  
+**78 problems solved** (Python)  
+**Difficulty:** 32 Easy · 43 Medium · 3 Hard  
 **Last updated:** 2026-08-12
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 31 | 43 | 3 | 77 |
+| 32 | 43 | 3 | 78 |
 
 ### Problems by Topic
 
@@ -137,13 +137,14 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 </details>
 
 <details>
-<summary><strong>Linked List</strong> — 5 problems</summary>
+<summary><strong>Linked List</strong> — 6 problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 0002 | Add Two Numbers | Medium |
 | 0021 | Merge Two Sorted Lists | Easy |
 | 0083 | Remove Duplicates from Sorted List | Easy |
+| 0141 | Linked List Cycle | Easy |
 | 0206 | Reverse Linked List | Easy |
 | 0908 | Middle of the Linked List | Easy |
 
@@ -252,11 +253,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
+| 141 | Linked List Cycle | Linked List | Easy |
 | 908 | Middle of the Linked List | Linked List | Easy |
 | 83 | Remove Duplicates from Sorted List | Linked List | Easy |
 | 21 | Merge Two Sorted Lists | Linked List | Easy |
 | 206 | Reverse Linked List | Linked List | Easy |
-| 230 | Kth Smallest Element in a BST | Trees | Medium |
 
 <!-- TRACKER_END -->
 
