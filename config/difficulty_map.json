@@ -38,6 +38,7 @@
   "230-kth-smallest-element-in-a-bst": "Medium",
   "236-lowest-common-ancestor-of-a-binary-tree": "Medium",
   "238-product-of-array-except-self": "Medium",
+  "24-swap-nodes-in-pairs": "Medium",
   "242-valid-anagram": "Easy",
   "253-meeting-rooms-ii": "Medium",
   "26-remove-duplicates-from-sorted-array": "Easy",

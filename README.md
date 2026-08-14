@@ -5,7 +5,7 @@ A continuously maintained, automated log of LeetCode problems, organized by algo
 
 This repository demonstrates consistency in problem-solving, structured learning across core algorithmic patterns, and practical engineering to manage large-scale interview preparation.
 
-**81 problems solved across core algorithmic patterns (automatically tracked and updated).**
+**82 problems solved across core algorithmic patterns (automatically tracked and updated).**
 
 ---
 [![Run Reclassification](https://img.shields.io/badge/Reclassify-Uncategorized-blue?style=for-the-badge)](../../actions/workflows/reclassify.yml)
@@ -49,13 +49,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 ## 📊 Progress
 
 <!-- TRACKER_START -->
-**81 problems solved** (Python)  
-**Difficulty:** 32 Easy · 46 Medium · 3 Hard  
+**82 problems solved** (Python)  
+**Difficulty:** 32 Easy · 47 Medium · 3 Hard  
 **Last updated:** 2026-08-13
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 32 | 46 | 3 | 81 |
+| 32 | 47 | 3 | 82 |
 
 ### Problems by Topic
 
@@ -137,13 +137,14 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 </details>
 
 <details>
-<summary><strong>Linked List</strong> — 9 problems</summary>
+<summary><strong>Linked List</strong> — 10 problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 0002 | Add Two Numbers | Medium |
 | 0019 | Remove Nth Node From End of List | Medium |
 | 0021 | Merge Two Sorted Lists | Easy |
+| 0024 | Swap Nodes in Pairs | Medium |
 | 0083 | Remove Duplicates from Sorted List | Easy |
 | 0092 | Reverse Linked List II | Medium |
 | 0141 | Linked List Cycle | Easy |
@@ -256,11 +257,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
+| 24 | Swap Nodes in Pairs | Linked List | Medium |
 | 92 | Reverse Linked List II | Linked List | Medium |
 | 19 | Remove Nth Node From End of List | Linked List | Medium |
 | 142 | Linked List Cycle II | Linked List | Medium |
 | 141 | Linked List Cycle | Linked List | Easy |
-| 908 | Middle of the Linked List | Linked List | Easy |
 
 <!-- TRACKER_END -->
 
