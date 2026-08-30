@@ -71,6 +71,7 @@
   "733-flood-fill": "graphs",
   "739-daily-temperatures": "stack",
   "747-min-cost-climbing-stairs": "dynamic_programming",
+  "789-kth-largest-element-in-a-stream": "heap",
   "837-most-common-word": "arrays_and_hashing",
   "874-backspace-string-compare": "stack",
   "890-lemonade-change": "greedy",
