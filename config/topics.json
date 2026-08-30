@@ -78,6 +78,7 @@
   "890-lemonade-change": "greedy",
   "908-middle-of-the-linked-list": "linked_list",
   "940-fruit-into-baskets": "sliding_window",
+  "1014-k-closest-points-to-origin": "heap",
   "1036-rotting-oranges": "graphs",
   "1046-max-consecutive-ones-iii": "sliding_window",
   "1127-last-stone-weight": "heap",
