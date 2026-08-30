@@ -79,6 +79,7 @@
   "940-fruit-into-baskets": "sliding_window",
   "1036-rotting-oranges": "graphs",
   "1046-max-consecutive-ones-iii": "sliding_window",
+  "1127-last-stone-weight": "heap",
   "1236-n-th-tribonacci-number": "dynamic_programming",
   "1586-longest-subarray-of-1s-after-deleting-one-element": "sliding_window"
 }
