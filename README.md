@@ -5,7 +5,7 @@ A continuously maintained, automated log of LeetCode problems, organized by algo
 
 This repository demonstrates consistency in problem-solving, structured learning across core algorithmic patterns, and practical engineering to manage large-scale interview preparation.
 
-**84 problems solved across core algorithmic patterns (automatically tracked and updated).**
+**85 problems solved across core algorithmic patterns (automatically tracked and updated).**
 
 ---
 [![Run Reclassification](https://img.shields.io/badge/Reclassify-Uncategorized-blue?style=for-the-badge)](../../actions/workflows/reclassify.yml)
@@ -49,13 +49,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 ## 📊 Progress
 
 <!-- TRACKER_START -->
-**84 problems solved** (Python)  
-**Difficulty:** 34 Easy · 47 Medium · 3 Hard  
+**85 problems solved** (Python)  
+**Difficulty:** 34 Easy · 48 Medium · 3 Hard  
 **Last updated:** 2026-08-29
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 34 | 47 | 3 | 84 |
+| 34 | 48 | 3 | 85 |
 
 ### Problems by Topic
 
@@ -175,10 +175,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 </details>
 
 <details>
-<summary><strong>Heap / Priority Queue</strong> — 3 problems</summary>
+<summary><strong>Heap / Priority Queue</strong> — 4 problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 0215 | Kth Largest Element in an Array | Medium |
 | 0253 | Meeting Rooms II | Medium |
 | 0789 | Kth Largest Element in a Stream | Easy |
 | 1127 | Last Stone Weight | Easy |
@@ -259,11 +260,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
+| 215 | Kth Largest Element in an Array | Heap / Priority Queue | Medium |
 | 1127 | Last Stone Weight | Heap / Priority Queue | Easy |
 | 789 | Kth Largest Element in a Stream | Heap / Priority Queue | Easy |
 | 24 | Swap Nodes in Pairs | Linked List | Medium |
 | 92 | Reverse Linked List II | Linked List | Medium |
-| 19 | Remove Nth Node From End of List | Linked List | Medium |
 
 <!-- TRACKER_END -->
 

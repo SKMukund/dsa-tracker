@@ -46,6 +46,7 @@
   "206-reverse-linked-list": "linked_list",
   "209-minimum-size-subarray-sum": "sliding_window",
   "213-house-robber-ii": "dynamic_programming",
+  "215-kth-largest-element-in-an-array": "heap",
   "217-contains-duplicate": "arrays_and_hashing",
   "226-invert-binary-tree": "trees",
   "230-kth-smallest-element-in-a-bst": "trees",
