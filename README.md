@@ -5,7 +5,7 @@ A continuously maintained, automated log of LeetCode problems, organized by algo
 
 This repository demonstrates consistency in problem-solving, structured learning across core algorithmic patterns, and practical engineering to manage large-scale interview preparation.
 
-**88 problems solved across core algorithmic patterns (automatically tracked and updated).**
+**89 problems solved across core algorithmic patterns (automatically tracked and updated).**
 
 ---
 [![Run Reclassification](https://img.shields.io/badge/Reclassify-Uncategorized-blue?style=for-the-badge)](../../actions/workflows/reclassify.yml)
@@ -49,13 +49,13 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 ## 📊 Progress
 
 <!-- TRACKER_START -->
-**88 problems solved** (Python)  
-**Difficulty:** 34 Easy · 51 Medium · 3 Hard  
+**89 problems solved** (Python)  
+**Difficulty:** 34 Easy · 52 Medium · 3 Hard  
 **Last updated:** 2026-08-30
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 34 | 51 | 3 | 88 |
+| 34 | 52 | 3 | 89 |
 
 ### Problems by Topic
 
@@ -175,7 +175,7 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 </details>
 
 <details>
-<summary><strong>Heap / Priority Queue</strong> — 7 problems</summary>
+<summary><strong>Heap / Priority Queue</strong> — 8 problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
@@ -183,6 +183,7 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 | 0253 | Meeting Rooms II | Medium |
 | 0347 | Top K Frequent Elements | Medium |
 | 0621 | Task Scheduler | Medium |
+| 0778 | Reorganize String | Medium |
 | 0789 | Kth Largest Element in a Stream | Easy |
 | 1014 | K Closest Points to Origin | Medium |
 | 1127 | Last Stone Weight | Easy |
@@ -263,11 +264,11 @@ To register a new problem, add its number to `config/topics.json` and `config/ti
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
+| 778 | Reorganize String | Heap / Priority Queue | Medium |
 | 621 | Task Scheduler | Heap / Priority Queue | Medium |
 | 347 | Top K Frequent Elements | Heap / Priority Queue | Medium |
 | 1014 | K Closest Points to Origin | Heap / Priority Queue | Medium |
 | 215 | Kth Largest Element in an Array | Heap / Priority Queue | Medium |
-| 1127 | Last Stone Weight | Heap / Priority Queue | Easy |
 
 <!-- TRACKER_END -->
 
