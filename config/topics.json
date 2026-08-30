@@ -57,6 +57,7 @@
   "278-first-bad-version": "binary_search",
   "283-move-zeroes": "two_pointers",
   "322-coin-change": "dynamic_programming",
+  "347-top-k-frequent-elements": "heap",
   "394-decode-string": "stack",
   "402-remove-k-digits": "stack",
   "451-sort-characters-by-frequency": "arrays_and_hashing",

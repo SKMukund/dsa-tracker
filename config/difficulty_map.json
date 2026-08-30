@@ -50,6 +50,7 @@
   "3-longest-substring-without-repeating-characters": "Medium",
   "322-coin-change": "Medium",
   "34-find-first-and-last-position-of-element-in-sorted-array": "Medium",
+  "347-top-k-frequent-elements": "Medium",
   "35-search-insert-position": "Easy",
   "394-decode-string": "Medium",
   "402-remove-k-digits": "Medium",
